@@ -1,1 +1,1 @@
-# Music_Analysis
+This project aims to analyze a comprehensive music database to uncover insights into music consumption trends, artist performance, genre popularity, and customer behavior. By leveraging various data tables, we seek to understand the dynamics of the music industry and provide actionable insights for artists, producers, and marketers
